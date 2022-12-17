@@ -1,0 +1,6 @@
+This Repository Contains A Simple Python based Commandline Interface To-Do App.
+
+
+Language Used : Python 3.7
+
+UI : Command Line
